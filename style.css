@@ -1,0 +1,9 @@
+body{margin: 0;padding: 0}
+header{height: 40px;background: #2c3694;width: 100%;}
+.menu{width:80%;margin: 0 auto; padding: 0;}
+.menu li{float: left; list-style: none;text-decoration: none;}
+.menu li a{color:#fff;text-decoration: none;
+padding: 10px;
+line-height: 37px;
+font-family: calibri;}
+.menu li a:hover{background: #53d0f1; color: #2c3694;}
